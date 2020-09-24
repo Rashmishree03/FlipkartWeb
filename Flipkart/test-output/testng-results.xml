@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49840" started-at="2020-09-24T09:20:38Z" finished-at="2020-09-24T09:21:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49840" started-at="2020-09-24T09:20:38Z" finished-at="2020-09-24T09:21:28Z">
+      <class name="com.flipkart.qa.testcases.SearchProduct">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.flipkart.qa.testcases.SearchProduct@7c417213]" name="setUp" is-config="true" duration-ms="9090" started-at="2020-09-24T09:20:38Z" finished-at="2020-09-24T09:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchProduct_withinThePriceRange()[pri:0, instance:com.flipkart.qa.testcases.SearchProduct@7c417213]" name="searchProduct_withinThePriceRange" duration-ms="39976" started-at="2020-09-24T09:20:47Z" finished-at="2020-09-24T09:21:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct_withinThePriceRange -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.SearchProduct@7c417213]" name="tearDown" is-config="true" duration-ms="752" started-at="2020-09-24T09:21:27Z" finished-at="2020-09-24T09:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.qa.testcases.SearchProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
